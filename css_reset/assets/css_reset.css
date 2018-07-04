@@ -1,0 +1,23 @@
+html, body, header, aside, section, footer, h1, h2, ul, ol, li, nav, label, form, figure, figcaption {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  
+  font: inherit;
+  font-size: 100%;
+  
+  background-color: white;
+  background: transparent
+}
+
+body {
+  line-height: 1.5;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  width: 100%
+}
